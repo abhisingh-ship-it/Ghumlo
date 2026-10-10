@@ -1,0 +1,8 @@
+{
+  "name": "GhumLo — AI-Powered Travel Planner",
+  "description": "Plan your journey across India and beyond. Discover destinations, build smart day-by-day itineraries with Gemini AI, manage travel budgets in INR, and explore effortlessly. Bas Plan Karo, Nikal Pado!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
